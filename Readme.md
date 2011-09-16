@@ -27,7 +27,7 @@ Internals
 
 The goal is achieved by copying some registry keys from the Visual Studio folder to the Management Studio one.
 
- Acknowledgement
- -----------------------------
+Acknowledgement
+-----------------------------
  
  The code is heavily based on the work of Tomas Restrepo : http://winterdom.com/2007/10/colorschemesinsql2005managementstudio. I only added the possibility the choose the versions to use and did some code cleaning.
